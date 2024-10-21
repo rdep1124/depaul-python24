@@ -1,0 +1,21 @@
+year,cognition,medical_condition,care_hours
+2016,True,Dementia,full-day
+2017,False,Dementia,Not specified
+2021,True,Alzheimer's,full-day
+2021,False,Dementia,Not specified
+2018,True,Dementia,half day
+2021,True,Dementia,half day
+2019,False,Dementia,Not specified
+2016,True,Dementia,full-day
+2014,True,Dementia,full-day
+2016,True,Dementia,full-day
+2019,True,Dementia,full-day
+2019,False,Dementia,Not specified
+2021,True,Alzheimer's,full-day
+2018,True,Dementia,half day
+2013,True,Dementia,half day
+2020,True,Dementia,half day
+2016,False,Dementia,Not specified
+2017,True,Dementia,full-day
+2020,True,Dementia,full-day
+2017,True,Dementia,full-day
